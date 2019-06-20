@@ -8,9 +8,7 @@ Written in [click](https://github.com/pallets/click)
 
 ### Usage 
 
-- Clone
-
-`git clone https://github.com/strongSoda/flu.git`
+- Clone `git clone https://github.com/strongSoda/flu.git`
 
 - Create a venv (optional)
 
