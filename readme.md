@@ -14,7 +14,7 @@ Written in [click](https://github.com/pallets/click)
 
 - `pip install -r requirements.txt`
 
-- `python hello.py --help`
+- `python flu.py --help`
 
 ### Contributing
 
