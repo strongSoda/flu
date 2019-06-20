@@ -14,7 +14,7 @@ Intended to be a website generator cli.
 
 - `$ pip install -r requirements.txt`
 
-- `$ python flu.py --help`
+- `$ python flu_runner.py`
 
 ### Tools
 
