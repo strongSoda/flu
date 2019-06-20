@@ -1,5 +1,5 @@
 import click
-from hello import hello
+from .hello import hello
 
 # top level cmd for calling Flu
 @click.group()
@@ -10,5 +10,5 @@ def flu():
 # sub commands supported by flu
 flu.add_command(hello)
 
-if __name__ == '__main__':
+def main():
     flu()

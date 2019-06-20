@@ -1,0 +1,3 @@
+[console_scripts]
+flu = flu.__main__:main
+

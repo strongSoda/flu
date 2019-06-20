@@ -1,0 +1,36 @@
+Metadata-Version: 2.1
+Name: flu
+Version: 0.0.4
+Summary: CLI to generate beautiful & optimised website scaffolds
+Home-page: https://github.com/strongSoda/flu
+Author: Imran Khan
+Author-email: ikhan77727@gmail.com
+License: MIT
+Description: ## Flu
+        
+        Intended to be a website generator cli.
+        
+        ### Tools
+        
+        Written in [click](https://github.com/pallets/click)
+        
+        ### Usage 
+        
+        - Clone `git clone https://github.com/strongSoda/flu.git`
+        
+        - Create a venv (optional)
+        
+        - `pip install -r requirements.txt`
+        
+        - `python flu.py --help`
+        
+        ### Contributing
+        
+        Ideas, suggestions, workflows, code etc. are welcome.
+        
+        [Click Docs](https://click.palletsprojects.com/en/7.x/)
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown

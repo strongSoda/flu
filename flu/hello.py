@@ -1,5 +1,5 @@
 import click
-from colors import all_colors
+from .colors import all_colors
 
 @click.command()
 @click.option('--name',prompt='Your good name?', default='World',help='your name')
