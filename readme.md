@@ -2,19 +2,23 @@
 
 Intended to be a website generator cli.
 
-### Tools
+### Usage
 
-Written in [click](https://github.com/pallets/click)
+- `$ pip install flu`
+- `$ flu`
 
-### Usage 
-
-- Clone `git clone https://github.com/strongSoda/flu.git`
+### Local Development
+- Clone `$ git clone https://github.com/strongSoda/flu.git`
 
 - Create a venv (optional)
 
-- `pip install -r requirements.txt`
+- `$ pip install -r requirements.txt`
 
-- `python flu.py --help`
+- `$ python flu.py --help`
+
+### Tools
+
+Written in [click](https://github.com/pallets/click)
 
 ### Contributing
 
