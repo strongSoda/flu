@@ -6,6 +6,18 @@ Intended to be a website generator cli.
 
 Written in [click](https://github.com/pallets/click)
 
+### Usage 
+
+- Clone
+
+`git clone https://github.com/strongSoda/flu.git`
+
+- Create a venv (optional)
+
+- `pip install -r requirements.txt`
+
+- `python hello.py --help`
+
 ### Contributing
 
 Ideas, suggestions, workflows, code etc. are welcome.
